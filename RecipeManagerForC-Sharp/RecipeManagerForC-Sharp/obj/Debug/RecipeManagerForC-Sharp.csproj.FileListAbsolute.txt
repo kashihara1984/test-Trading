@@ -1,0 +1,13 @@
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\bin\Debug\RecipeManagerForC-Sharp.exe.config
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\bin\Debug\RecipeManagerForC-Sharp.exe
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\bin\Debug\RecipeManagerForC-Sharp.pdb
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC-Sharp.csprojResolveAssemblyReference.cache
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC_Sharp.RecipeEdit.resources
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC_Sharp.RecipeList.resources
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC_Sharp.Recipe.resources
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC_Sharp.MainMenu.resources
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC_Sharp.LogIn.resources
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC_Sharp.Properties.Resources.resources
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC-Sharp.csproj.GenerateResource.Cache
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC-Sharp.exe
+C:\近藤元＿研修\RecipeManagerForC-Sharp\RecipeManagerForC-Sharp\obj\Debug\RecipeManagerForC-Sharp.pdb
