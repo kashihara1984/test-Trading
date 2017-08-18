@@ -1,0 +1,13 @@
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\bin\Debug\ShokujiRireki.exe.config
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\bin\Debug\ShokujiRireki.exe
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\bin\Debug\ShokujiRireki.pdb
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.Login.resources
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.Properties.Resources.resources
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.csproj.GenerateResource.Cache
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.exe
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.pdb
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.Main.resources
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.Registry.resources
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.Master.resources
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.Detail.resources
+C:\Users\pcpro\Desktop\宮田\Visual Studio\ShokujiRireki\ShokujiRireki\obj\Debug\ShokujiRireki.csprojResolveAssemblyReference.cache
